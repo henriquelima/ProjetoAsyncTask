@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProjetoAsynctask</string>
+    <string name="Enviar">Enviar</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
